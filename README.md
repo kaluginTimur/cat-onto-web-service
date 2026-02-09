@@ -1,4 +1,4 @@
-# catOntoWebService
+# cat-onto-web-service
 
 **Archivation Notice:** This project is an old student project and is no longer actively maintained. It is provided for historical reference or educational purposes only.
 
